@@ -1,0 +1,43 @@
+
+
+img {
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+}
+
+body {
+  font-family: 'Rammetto One', cursive;
+  background-color: #F5F5DC;
+}
+
+ul {
+  font-size: 13px;
+  font-style:  oblique;
+}
+
+
+p {
+  color: #006400;
+  text-decoration: underline;
+}
+
+h2 {
+  letter-spacing: 8px;
+}
+
+#someText {
+  text-decoration: none;
+  text-shadow: 2px 3px red;
+}
+
+button {
+	background-color: red;
+	width: 100px;
+	height: 30px;
+	border: none;
+}
+
+button:hover {
+	background-color: green;
+}
